@@ -91,5 +91,4 @@ dependencies:
     - kiwisolver==1.0.1
     - matplotlib==2.2.2
     - pillow==5.0.0
-prefix: C:\Users\Uno\Anaconda3\envs\auto-driving-project1
 
